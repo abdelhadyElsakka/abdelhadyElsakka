@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on React-Native Project
 
-🌱 I’m currently learning at ITI
+🌱 I’m currently learning at Node js
 
 <!--
 **abdelhadyElsakka/abdelhadyElsakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
